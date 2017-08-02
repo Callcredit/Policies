@@ -2,7 +2,7 @@
 
 Repository to host Callcredit code of conduct and allow colaboration of maintaining it up to date.
 
-[Code of conduct](.\code_of_conduct.md)
+[Code of conduct](./code_of_conduct.md)
 
 ## Contribution guidelines
 
