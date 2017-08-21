@@ -1,8 +1,7 @@
-# Callcredit Code of conduct
+# Callcredit Policies
 
-Repository to host Callcredit code of conduct and allow colaboration of maintaining it up to date.
-
-[Code of conduct](./code_of_conduct.md)
+Repository to host Callcredit comunity policies:
+ * [Code of conduct](./code_of_conduct.md)
 
 ## Contribution guidelines
 
