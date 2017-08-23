@@ -5,7 +5,7 @@ Repository to host Callcredit comunity policies:
 
 ## Contribution guidelines
 
-Contribution will be accepted only from Callcredit organisation members at this time.
+Contributions will be accepted only from Callcredit organisation members at this time.
 
 ### Workflow
  * Create new branch
