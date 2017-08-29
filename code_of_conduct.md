@@ -32,7 +32,7 @@ Further details of specific enforcement policies may be posted separately.
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Microsofft Code of Conduct](https://opensource.microsoft.com/codeofconduct/),   
+This Code of Conduct is adapted from the [Microsoft Code of Conduct](https://opensource.microsoft.com/codeofconduct/),   
 Scope and Enforcement sections from the [Contributor Covenant version 1.4](http://contributor-covenant.org/version/1/4).
 
 ## Licence
